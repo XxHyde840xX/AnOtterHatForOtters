@@ -6,6 +6,9 @@
 	<supportedVersions>
 		<li>1.4</li>
 	</supportedVersions>
+	<incompatibleWith>
+		<li>higgs.dsf.porters</li>
+	</incompatibleWith>
 	<packageId>840.higgs.otterhat</packageId>
 	<description>Just an otter hat for otters, spun out from the  Death Stranding Faction: Porters mod, located at: https://steamcommunity.com/sharedfiles/filedetails/?id=1970937352. All credit to Higgs, I just yanked the hat.</description>
 </ModMetaData>

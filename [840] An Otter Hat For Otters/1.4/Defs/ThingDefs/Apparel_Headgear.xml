@@ -3,7 +3,7 @@
 <Defs>
 	<!--Otter Hat-->
 	<ThingDef ParentName="HatMakeableBase">
-		<defName>DSApparel_POR_Otterhat</defName>
+		<defName>840_Apparel_POR_Otterhat</defName>
 		<label>Porter's Otter Hat</label>
 		<description>A hood with an OTTERly amazing design.</description>
 		<techLevel>Spacer</techLevel>
